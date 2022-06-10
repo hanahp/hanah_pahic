@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: indianred;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: lavenderblush;
+	padding: 20px;
+	
+}
+h1 {
+	color: mediumvioletred;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 30px;
+	line-height: 18px;
+	width: 600px;
+	background-color: lavenderblush;
+	padding: 20px;
+	
+}
+h2 {
+	color: mediumvioletred;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 25px;
+	line-height: 18px;
+	width: 600px;
+}
+h3 {
+	color: mediumvioletred;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 18px;
+	line-height: 18px;
+	width: 600px;
+}
+body{
+	background-image: url("slike/bg.jpg");
+}
+ol{
+	color: mediumvioletred;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: lavenderblush;
+	padding: 20px;
+}
+ul{
+	color: mediumvioletred;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: lavenderblush;
+	padding: 20px;
+}
+q {
+	color: indianred;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+}
